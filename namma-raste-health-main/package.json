@@ -1,0 +1,12 @@
+{
+  "name": "namma-raste-health-android",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'This is an Android project. Open in Android Studio.' && sleep infinity",
+    "build": "echo 'Building Android project...'",
+    "lint": "echo 'Linting Android project...'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

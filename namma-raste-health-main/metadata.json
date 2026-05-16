@@ -1,0 +1,6 @@
+{
+  "name": "NAMMA RASTE HEALTH",
+  "description": "AI-powered road damage reporting app using Gemini Vision and Google Maps.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["AI Analysis", "GPS Tracking", "Real-time Mapping"]
+}
