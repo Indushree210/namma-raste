@@ -133,8 +133,4 @@ Android App Development using GenAI for Infrastructure Monitoring
 
 Indushree
 
----
 
-# License
-
-This project is developed for educational and innovation purposes.
